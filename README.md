@@ -14,6 +14,9 @@ MIGHTIX is a Lua script designed for Roblox players looking to improve their gam
 * Copy the script.
 * Execute in your executor.
 
+## Preview [09/03/2023] dd/mm/yy
+![preview-mightix](https://user-images.githubusercontent.com/104152235/223910357-90016da9-d81f-46b4-9cbc-99b7393d82bd.png)
+
 ## Usage
 To use MIGHTIX, simply run the script then use it.
 
